@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferna\\Code stack\\Week12\\GutierrezFStudentDatabaseProject\\GutierrezFStudentDatabaseProject.csproj": {}
+    "C:\\Users\\Nando\\CodeStack\\TestFolder\\GutierrezFStudentDatabaseProject\\GutierrezFStudentDatabaseProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferna\\Code stack\\Week12\\GutierrezFStudentDatabaseProject\\GutierrezFStudentDatabaseProject.csproj": {
+    "C:\\Users\\Nando\\CodeStack\\TestFolder\\GutierrezFStudentDatabaseProject\\GutierrezFStudentDatabaseProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferna\\Code stack\\Week12\\GutierrezFStudentDatabaseProject\\GutierrezFStudentDatabaseProject.csproj",
+        "projectUniqueName": "C:\\Users\\Nando\\CodeStack\\TestFolder\\GutierrezFStudentDatabaseProject\\GutierrezFStudentDatabaseProject.csproj",
         "projectName": "GutierrezFStudentDatabaseProject",
-        "projectPath": "C:\\Users\\ferna\\Code stack\\Week12\\GutierrezFStudentDatabaseProject\\GutierrezFStudentDatabaseProject.csproj",
-        "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferna\\Code stack\\Week12\\GutierrezFStudentDatabaseProject\\obj\\",
+        "projectPath": "C:\\Users\\Nando\\CodeStack\\TestFolder\\GutierrezFStudentDatabaseProject\\GutierrezFStudentDatabaseProject.csproj",
+        "packagesPath": "C:\\Users\\Nando\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nando\\CodeStack\\TestFolder\\GutierrezFStudentDatabaseProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Nando\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -76,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }
